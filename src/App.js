@@ -14,11 +14,11 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Gugulethu Amanda Ndlovu{" "}
+            Nombuso Melinda Ntsele{" "}
           </a>
           and is{" "}
           <a
-            href="https://github.com/guguamanda/react-weather-app-shecodes"
+            href="https://github.com/Nombuso28/react-weather-app-shecodes"
             target="_blank"
             rel="noopener noreferrer"
           >
